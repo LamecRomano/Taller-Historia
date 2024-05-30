@@ -9,9 +9,6 @@
         "user": "root",
         "password": "root"
     },
-    "scripts": {
-        "start": "php -S localhost:8000"
-      },
     "environment": "flywheel",
     "services": {
         "mailpit": {
